@@ -1,7 +1,7 @@
 # 100DaysofCode Log
 
-### March 26th 2024 Day 4 of 100
-#### Today's Progress:Learnt sth on Pythom Scope.Local and Global variables.
+### March 27th 2024 Day 5 of 100
+#### Today's Progress:Twqs nice learning Python Modules especially using from,as and dir keywords.
 #### Thoughts:It was really nice and easy.
 #### Link to Work:https://github.com/olangoisack/olangoisack/tree/main
 
